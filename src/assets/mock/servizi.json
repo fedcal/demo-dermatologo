@@ -1,0 +1,144 @@
+{
+  "categorie": [
+    { "id": "clinica", "nome": "Dermatologia Clinica", "ordine": 1 },
+    { "id": "diagnostica", "nome": "Diagnostica Avanzata", "ordine": 2 },
+    { "id": "estetica", "nome": "Dermatologia Estetica", "ordine": 3 }
+  ],
+  "servizi": [
+    {
+      "id": 1,
+      "categoria": "clinica",
+      "nome": "Visita dermatologica",
+      "descrizione": "Valutazione completa della pelle, mucose e annessi cutanei. Prima visita con anamnesi dettagliata e piano terapeutico.",
+      "prezzo": 120,
+      "durata": "45 min",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "categoria": "clinica",
+      "nome": "Visita di controllo",
+      "descrizione": "Follow-up di patologie dermatologiche in corso di trattamento. Verifica efficacia terapia.",
+      "prezzo": 80,
+      "durata": "20 min",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "categoria": "clinica",
+      "nome": "Trattamento acne",
+      "descrizione": "Protocollo personalizzato per acne volgare, cistica e rosacea. Include terapia topica e sistemica.",
+      "prezzo": 100,
+      "durata": "30 min",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "categoria": "clinica",
+      "nome": "Psoriasi e dermatite",
+      "descrizione": "Gestione clinica di psoriasi, dermatite atopica e dermatite da contatto con piano terapeutico a lungo termine.",
+      "prezzo": 110,
+      "durata": "40 min",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "categoria": "clinica",
+      "nome": "Fototerapia UVB a banda stretta",
+      "descrizione": "Trattamento con raggi UVB a banda stretta per psoriasi, vitiligine, dermatite atopica e micosi fungoide.",
+      "prezzo": 45,
+      "durata": "15 min/seduta",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "categoria": "diagnostica",
+      "nome": "Mappatura dei nei",
+      "descrizione": "Analisi fotografica e dermoscopica completa di tutti i nei. Documentazione digitale per monitoraggio evolutivo nel tempo.",
+      "prezzo": 150,
+      "durata": "60 min",
+      "featured": true
+    },
+    {
+      "id": 7,
+      "categoria": "diagnostica",
+      "nome": "Dermoscopia singola lesione",
+      "descrizione": "Esame dermoscopico digitale di una singola lesione pigmentata o non pigmentata con refertazione scritta.",
+      "prezzo": 90,
+      "durata": "20 min",
+      "featured": false
+    },
+    {
+      "id": 8,
+      "categoria": "diagnostica",
+      "nome": "Screening melanoma",
+      "descrizione": "Visita dedicata alla diagnosi precoce del melanoma con videodermatoscopia e analisi algoritmica delle lesioni.",
+      "prezzo": 180,
+      "durata": "60 min",
+      "featured": true
+    },
+    {
+      "id": 9,
+      "categoria": "diagnostica",
+      "nome": "Test epicutanei (patch test)",
+      "descrizione": "Identificazione degli allergeni responsabili di dermatite da contatto allergica. Set europeo standard di 28 apteni.",
+      "prezzo": 140,
+      "durata": "3 appuntamenti",
+      "featured": false
+    },
+    {
+      "id": 10,
+      "categoria": "estetica",
+      "nome": "Peeling chimico",
+      "descrizione": "Trattamento rigenerativo con acidi (glicolico, mandelico, TCA) per macchie, rughe superficiali e pelle spenta.",
+      "prezzo": 130,
+      "durata": "30 min",
+      "featured": false
+    },
+    {
+      "id": 11,
+      "categoria": "estetica",
+      "nome": "Botox (tossina botulinica)",
+      "descrizione": "Trattamento delle rughe dinamiche: glabella, zampe di gallina, fronte. Effetto naturale e reversibile.",
+      "prezzo": 280,
+      "durata": "30 min",
+      "featured": true
+    },
+    {
+      "id": 12,
+      "categoria": "estetica",
+      "nome": "Filler con acido ialuronico",
+      "descrizione": "Riempimento di solchi naso-labiali, zigomi, labbra e volume del mento con acido ialuronico reticolato.",
+      "prezzo": 350,
+      "durata": "30 min",
+      "featured": false
+    },
+    {
+      "id": 13,
+      "categoria": "estetica",
+      "nome": "Trattamento macchie cutanee",
+      "descrizione": "Protocollo combinato (peeling + IPL o laser) per iperpigmentazioni, macchie solari e melasma.",
+      "prezzo": 180,
+      "durata": "45 min",
+      "featured": false
+    },
+    {
+      "id": 14,
+      "categoria": "estetica",
+      "nome": "Mesoterapia cutanea",
+      "descrizione": "Iniezioni intradermiche di cocktail vitaminici e acido ialuronico non reticolato per idratazione profonda e luminosità.",
+      "prezzo": 200,
+      "durata": "30 min",
+      "featured": false
+    },
+    {
+      "id": 15,
+      "categoria": "estetica",
+      "nome": "Asportazione nei e lesioni benigne",
+      "descrizione": "Rimozione chirurgica in anestesia locale di nei benigni, fibromi, cisti sebacee e cheratosi seborroiche. Include esame istologico.",
+      "prezzo": 450,
+      "durata": "45 min",
+      "featured": false
+    }
+  ]
+}

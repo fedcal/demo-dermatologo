@@ -1,0 +1,39 @@
+{
+  "ragioneSociale": "Studio Dermatologico Russo S.r.l.",
+  "nomeCommerciale": "Studio Dermatologico Russo",
+  "tagline": "Dermatologia clinica ed estetica",
+  "albo": "Albo Medici della Provincia di Bari n. 12345",
+  "indirizzo": {
+    "via": "Via Sparano 84",
+    "citta": "Bari",
+    "provincia": "BA",
+    "cap": "70121",
+    "regione": "Puglia",
+    "paese": "Italia",
+    "lat": 41.1256,
+    "lng": 16.8684
+  },
+  "contatti": {
+    "telefono": "+39 080 555 9876",
+    "whatsapp": "+39 347 555 9876",
+    "email": "info@dermatologorusso.it",
+    "social": {
+      "instagram": "https://instagram.com/studiorusso_demo",
+      "facebook": "https://facebook.com/studiorusso_demo"
+    }
+  },
+  "orari": {
+    "lunedi": "09:00 – 13:00 / 15:30 – 18:30",
+    "martedi": "09:00 – 13:00",
+    "mercoledi": "09:00 – 13:00 / 15:30 – 18:30",
+    "giovedi": "09:00 – 13:00",
+    "venerdi": "09:00 – 13:00 / 15:30 – 18:30",
+    "sabato": "Chiuso",
+    "domenica": "Chiuso"
+  },
+  "metaSeo": {
+    "title": "Studio Dermatologico Russo — Dermatologia clinica ed estetica Bari",
+    "description": "Studio dermatologico a Bari. Visita dermatologica, mappatura nei, dermoscopia, screening melanoma, acne, fototerapia, botox e filler. Prenota la tua visita.",
+    "keywords": ["dermatologo bari", "visita dermatologica bari", "mappatura nei bari", "screening melanoma bari", "dermoscopia bari"]
+  }
+}

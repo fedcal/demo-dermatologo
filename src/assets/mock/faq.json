@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "domanda": "Come si prenota la prima visita dermatologica?",
+      "risposta": "È possibile prenotare la prima visita telefonicamente al +39 080 555 9876, via WhatsApp o tramite il modulo di contatto online. La prima visita dura circa 45 minuti e include anamnesi completa, esame obiettivo della cute e piano terapeutico personalizzato."
+    },
+    {
+      "domanda": "Ho un neo che sembra cambiato: devo preoccuparmi?",
+      "risposta": "Qualsiasi neo che cambia dimensione, forma, colore o margini, o che sanguina, pizzica o fa prurito deve essere valutato dal dermatologo in tempi brevi. In caso di variazioni recenti e rapide, contattaci per una visita urgente. La diagnosi precoce del melanoma è determinante per la prognosi."
+    },
+    {
+      "domanda": "Quanto dura un ciclo di fototerapia UVB?",
+      "risposta": "Un ciclo standard di fototerapia UVB a banda stretta prevede 20-30 sedute, con frequenza di 3 sedute a settimana (lunedì, mercoledì, venerdì). La durata di ogni seduta aumenta progressivamente da pochi secondi a qualche minuto. Il ciclo completo dura circa 8-10 settimane."
+    },
+    {
+      "domanda": "I trattamenti estetici come botox e filler sono sicuri in gravidanza?",
+      "risposta": "I trattamenti con tossina botulinica e filler con acido ialuronico sono controindicati durante la gravidanza e l'allattamento. È necessario informare la dottoressa di qualsiasi possibile stato di gravidanza prima di procedere con qualsiasi trattamento estetico."
+    },
+    {
+      "domanda": "Quali prodotti consigliate per la cura quotidiana della pelle?",
+      "risposta": "Il protocollo di cura domiciliare viene personalizzato in base al fototipo, alla tipologia di pelle e alle patologie in corso. In linea generale raccomandiamo la protezione solare SPF 50+ tutto l'anno, un detergente delicato a pH fisiologico e un idratante non comedogenico. Evitiamo di consigliare prodotti specifici senza una valutazione diretta."
+    }
+  ]
+}

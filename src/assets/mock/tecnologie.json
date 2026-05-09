@@ -1,0 +1,46 @@
+{
+  "tecnologie": [
+    {
+      "id": 1,
+      "nome": "Videodermatoscopio FotoFinder ATBM",
+      "categoria": "Diagnostica",
+      "descrizione": "Sistema di videodermatoscopia digitale con analisi automatica algoritmica AI per la valutazione comparativa delle lesioni melanocitarie nel tempo. Permette la mappatura corporea totale ad alta risoluzione.",
+      "utilizzo": "Mappatura nei, screening melanoma, follow-up lesioni dubbie"
+    },
+    {
+      "id": 2,
+      "nome": "Dermoscopio Heine DELTA 30",
+      "categoria": "Diagnostica",
+      "descrizione": "Dermoscopio digitale polarizzato di ultima generazione per l'esame non invasivo delle strutture cutanee superficiali. Risoluzione 10x con illuminazione polarizzata cross e contact.",
+      "utilizzo": "Dermoscopia singola lesione, diagnosi differenziale"
+    },
+    {
+      "id": 3,
+      "nome": "Laser Nd:YAG Q-Switched",
+      "categoria": "Laser",
+      "descrizione": "Laser a neodimio-ittrio-alluminio-granato in modalità Q-switched per trattamento di macchie cutanee, tatuaggi, lentiggini e lesioni vascolari superficiali. Lunghezze d'onda 532nm e 1064nm.",
+      "utilizzo": "Macchie solari, lentiggini, tatuaggi, lesioni vascolari"
+    },
+    {
+      "id": 4,
+      "nome": "Lampada UVB a banda stretta Waldmann UV 7002K",
+      "categoria": "Fototerapia",
+      "descrizione": "Unità di fototerapia a banda stretta 311nm per psoriasi a placche, vitiligine, dermatite atopica e parapsoriasi. Cabina intera con sistema di dosimetria automatica.",
+      "utilizzo": "Psoriasi, vitiligine, dermatite atopica, parapsoriasi"
+    },
+    {
+      "id": 5,
+      "nome": "Epilatore laser Diodo 810nm",
+      "categoria": "Laser",
+      "descrizione": "Sistema laser a diodi a 810nm per epilazione definitiva su tutti i fototipi. Sistema di raffreddamento integrato per massimo comfort del paziente e trattamento sicuro di grandi aree.",
+      "utilizzo": "Epilazione laser permanente"
+    },
+    {
+      "id": 6,
+      "nome": "Radiofrequenza frazionata",
+      "categoria": "Estetica",
+      "descrizione": "Piattaforma di radiofrequenza frazionata con microneedle per rimodellamento cutaneo, riduzione cicatrici da acne, ringiovanimento del viso e del collo. Penetrazione controllata da 0.5mm a 3.5mm.",
+      "utilizzo": "Cicatrici acne, ringiovanimento cutaneo, skin tightening"
+    }
+  ]
+}

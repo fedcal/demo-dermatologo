@@ -1,0 +1,48 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Dr.ssa Valentina Russo",
+      "ruolo": "Dermatologa Titolare",
+      "specializzazione": "Specializzazione in Dermatologia e Venereologia — Università di Bari",
+      "albo": "Albo Medici Bari n. 12345",
+      "bio": "Dermatologa con oltre 18 anni di esperienza clinica. Responsabile dell'ambulatorio di dermoscopia digitale e screening melanoma. Membro della Società Italiana di Dermatologia (SIDeMaST) e dell'International Dermoscopy Society (IDS).",
+      "anniEsperienza": 18,
+      "image": "/assets/img/team/valentina.jpg",
+      "specialita": ["Dermoscopia digitale", "Screening melanoma", "Dermatologia estetica"]
+    },
+    {
+      "id": 2,
+      "nome": "Dr. Marco Pellegrino",
+      "ruolo": "Dermatologo Collaboratore",
+      "specializzazione": "Specializzazione in Dermatologia e Venereologia — Università Federico II di Napoli",
+      "albo": "Albo Medici Napoli n. 56789",
+      "bio": "Specializzato nella gestione delle malattie infiammatorie croniche (psoriasi, dermatite atopica) e nella fototerapia. Autore di pubblicazioni su riviste indicizzate ISI.",
+      "anniEsperienza": 12,
+      "image": "/assets/img/team/marco.jpg",
+      "specialita": ["Psoriasi e malattie autoimmuni", "Fototerapia UVB", "Dermatologia pediatrica"]
+    },
+    {
+      "id": 3,
+      "nome": "Sofia Mennea",
+      "ruolo": "Estetista Medica Senior",
+      "specializzazione": "Diploma di Estetista + Master in Cosmetologia Medica",
+      "albo": "Certificata CIDESCO International",
+      "bio": "Estetista medica con 10 anni di esperienza nei trattamenti estetici ambulatoriali. Specializzata nell'esecuzione di peeling chimici, mesoterapia e trattamenti laser sotto supervisione medica.",
+      "anniEsperienza": 10,
+      "image": "/assets/img/team/sofia.jpg",
+      "specialita": ["Peeling chimici", "Mesoterapia", "Trattamenti laser"]
+    },
+    {
+      "id": 4,
+      "nome": "Alessia Forte",
+      "ruolo": "Estetista Medica",
+      "specializzazione": "Diploma di Estetista + Corso avanzato in dermocosmetologia",
+      "albo": "Certificata ITEC Beauty Therapy",
+      "bio": "Estetista medica specializzata nei trattamenti del viso e nella cura delle pelli problematiche. Gestisce il percorso di cura acne e i trattamenti post-procedurali.",
+      "anniEsperienza": 6,
+      "image": "/assets/img/team/alessia.jpg",
+      "specialita": ["Trattamenti acne", "Cura pelli sensibili", "Make-up correttivo"]
+    }
+  ]
+}
