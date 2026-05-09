@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Dermatologo** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://dermatologo.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-dermatologo/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-dermatologo/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-dermatologo.git
-cd federico-demo-dermatologo
+git clone https://github.com/fedcal/demo-dermatologo.git
+cd demo-dermatologo
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:dermatologo
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-dermatologo/
+→ https://fedcal.github.io/demo-dermatologo/
 
 ## Hub demos Federico
 

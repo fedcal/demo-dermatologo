@@ -1,5 +1,5 @@
 {
-  "name": "federico-demo-dermatologo",
+  "name": "demo-dermatologo",
   "version": "0.1.0",
   "description": "Angular 21 SSR demo template per Dermatologo — Federico Calò",
   "private": true,
@@ -7,7 +7,7 @@
   "homepage": "https://dermatologo.demo.federicocalo.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedcal/federico-demo-dermatologo.git"
+    "url": "https://github.com/fedcal/demo-dermatologo.git"
   },
   "scripts": {
     "ng": "ng",
